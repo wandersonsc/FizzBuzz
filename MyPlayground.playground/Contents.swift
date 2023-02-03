@@ -32,4 +32,4 @@ func myNewCar(is cars:Vehiculo ){
     
 }
 
-myNewCar(is: .vw)
+myNewCar(is: .Tesla)
